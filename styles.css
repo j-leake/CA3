@@ -1,14 +1,29 @@
+body {
+    background-color: rgb(0, 43, 54);
+    
+}
+
+a:link {
+    color: rgb(211, 54,130);
+}
+
+a:hover {
+    color: rgb(203, 75, 22);
+}
+
 header {
     background-color: rgb(7, 54, 66);
     color: rgb(131,148,150);
 }
 
-body {
-    background-color: rgb(0, 43, 54);
-}
-
 main {
     color: rgb(131,148,150);
+}
+
+.subsection {
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(42,161,152);
 }
 
 footer {
